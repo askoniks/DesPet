@@ -3,7 +3,7 @@
 > **Portable Desktop Pet Application for Windows**  
 > Ваш персональный интерактивный спутник, который живет прямо на рабочем столе поверх всех окон. Приложение полностью автономно и работает как один `.exe` файл.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square)
+![Version](https://img.shields.io/badge/version-2.0-blue.svg?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
 
